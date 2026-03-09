@@ -4,6 +4,8 @@ Scenario Chosen: Scenario 2
 
 Estimated Time Spent: 5 hours
 
+Video Link: https://youtu.be/uhBbyPxYOfQ
+
 Quick Start:
 
     Prerequisites: Python 3.10+, PyPDF2, streamlit
