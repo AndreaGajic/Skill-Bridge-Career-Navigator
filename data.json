@@ -1,0 +1,274 @@
+{
+  "roles": {
+    "Cloud Engineer": {
+      "required_skills": ["Python", "AWS", "Linux", "Terraform", "Docker", "Kubernetes"],
+      "recommended_certs": ["AWS Certified Solutions Architect", "CKA"],
+      "summary": "Focuses on infrastructure as code and cloud-native architecture."
+    },
+    "Data Analyst": {
+      "required_skills": ["SQL", "Python", "Tableau", "PowerBI", "Excel", "Statistics"],
+      "recommended_certs": ["Google Data Analytics Professional", "Tableau Desktop Specialist"],
+      "summary": "Focuses on data cleaning, visualization, and business intelligence."
+    },
+    "Penetration Tester": {
+      "required_skills": ["Network Security", "Bash", "Python", "Burp Suite", "Kali Linux"],
+      "recommended_certs": ["OSCP", "CompTIA Security+"],
+      "summary": "Focuses on ethical hacking, vulnerability research, and security assessment."
+    },
+    "Security Operations Center Analyst": {
+      "required_skills": ["SIEM (Splunk/ELK)", "Threat Intelligence", "Incident Response", "Firewall Mgmt", "Linux"],
+      "recommended_certs": ["CompTIA CySA+", "GCIH (GIAC Certified Incident Handler)"],
+      "summary": "Focuses on monitoring, detecting, and responding to security incidents in real-time."
+    },
+    "Cybersecurity Consultant": {
+      "required_skills": ["Risk Assessment", "Compliance (ISO/NIST)", "Network Architecture", "Communication", "Policy Writing"],
+      "recommended_certs": ["CISSP", "CISM"],
+      "summary": "Focuses on advising organizations on security strategy, compliance, and risk mitigation."
+    },
+    "Machine Learning Engineer": {
+      "required_skills": ["Python", "TensorFlow/PyTorch", "SQL", "Big Data", "Statistics"],
+      "recommended_certs": ["AWS Certified Machine Learning Specialty", "Professional Data Engineer"],
+      "summary": "Focuses on building and deploying predictive models and intelligent algorithms."
+    },
+    "Backend Software Engineer": {
+      "required_skills": ["Java/Go/Node.js", "SQL", "PostgreSQL", "APIs (REST/GraphQL)", "System Design"],
+      "recommended_certs": ["Oracle Certified Professional", "AWS Certified Developer"],
+      "summary": "Focuses on developing server-side logic, database architectures, and APIs."
+    },
+    "Software Engineer": {
+      "required_skills": ["Data Structures", "Algorithms", "Git", "Testing (Unit/Integration)", "Cloud basics", "System Design", "Programming (Java/Python/C++)"],
+      "recommended_certs": ["AWS Certified Developer", "Certified Kubernetes Application Developer (CKAD)"],
+      "summary": "Focuses on designing, building, and maintaining robust, scalable software applications."
+    },
+    "Incident Response Specialist": {
+      "required_skills": ["Network Protocols (TCP/IP)", "Log Analysis", "Scripting (Python/Bash)", "Forensic tools", "SIEM", "Threat Hunting"],
+      "recommended_certs": ["GCIH (GIAC Certified Incident Handler)", "ECIH (EC-Council Certified Incident Handler)"],
+      "summary": "Focuses on identifying, containing, and remediating security threats and incidents."
+    },
+    "DevOps Engineer": {
+      "required_skills": ["CI/CD", "Docker", "Kubernetes", "Monitoring (Prometheus/Grafana)", "Scripting (Bash/Python)"],
+      "recommended_certs": ["AWS Certified DevOps Engineer", "CKA (Certified Kubernetes Administrator)"],
+      "summary": "Focuses on bridging the gap between development and operations through automation and scalable infrastructure."
+    },
+    "Full Stack Developer": {
+      "required_skills": ["HTML/CSS/JS", "React or Vue", "Node.js or Python", "SQL/NoSQL", "Git"],
+      "recommended_certs": ["Meta Front-End Developer", "freeCodeCamp Full Stack Certification"],
+      "summary": "Focuses on developing both the front-end user interface and the back-end server logic of web applications."
+    },
+    "UX/UI Designer": {
+      "required_skills": ["Figma", "User Research", "Wireframing", "Prototyping", "Accessibility Standards"],
+      "recommended_certs": ["Google UX Design Professional Certificate", "Interaction Design Foundation"],
+      "summary": "Focuses on enhancing user satisfaction by improving the usability, accessibility, and pleasure provided in the interaction between the user and the product."
+    },
+    "Product Manager": {
+      "required_skills": ["Agile/Scrum", "Roadmap Planning", "User Stories", "Stakeholder Management", "Data Analysis"],
+      "recommended_certs": ["Certified Scrum Product Owner (CSPO)", "PMP (Project Management Professional)"],
+      "summary": "Focuses on defining the vision, strategy, and roadmap for products while balancing customer needs and business goals."
+    },
+    "Network Architect": {
+      "required_skills": ["TCP/IP", "Routing & Switching", "Network Security", "Load Balancing", "SDN (Software Defined Networking)"],
+      "recommended_certs": ["Cisco Certified Network Professional (CCNP)", "CCIE (Cisco Certified Internetwork Expert)"],
+      "summary": "Focuses on designing, implementing, and managing complex network infrastructures to ensure security and reliability."
+    },
+    "Game Developer": {
+      "required_skills": ["C++", "C#", "Unity or Unreal Engine", "Math/Physics", "3D Modeling basics"],
+      "recommended_certs": ["Unity Certified Professional", "Unreal Engine Authorized Instructor"],
+      "summary": "Focuses on building interactive experiences, game mechanics, and rendering systems."
+    },
+    "Cloud Architect": {
+      "required_skills": ["Multi-Cloud Strategy (AWS/Azure/GCP)", "Network Design", "Cost Optimization", "Security Governance"],
+      "recommended_certs": ["AWS Certified Solutions Architect – Professional", "Google Professional Cloud Architect"],
+      "summary": "Focuses on designing high-level cloud environments and ensuring they are scalable and secure."
+    },
+    "AI Research Scientist": {
+      "required_skills": ["Linear Algebra", "Calculus", "PyTorch/TensorFlow", "Research Paper implementation", "Python"],
+      "recommended_certs": ["DeepLearning.AI Specialization", "Graduate level degrees usually required"],
+      "summary": "Focuses on advancing the state of artificial intelligence through experiments and algorithm development."
+    },
+    "Blockchain Developer": {
+      "required_skills": ["Solidity", "Rust", "Web3.js", "Cryptography", "Smart Contract Security"],
+      "recommended_certs": ["Chainlink Expert", "ConsenSys Blockchain Developer Bootcamp"],
+      "summary": "Focuses on building decentralized applications (dApps) and implementing smart contracts on blockchain networks."
+    },
+    "Site Reliability Engineer (SRE)": {
+      "required_skills": ["Python", "Go", "Linux Internals", "System Architecture", "Incident Management"],
+      "recommended_certs": ["Google Professional Cloud DevOps Engineer"],
+      "summary": "Focuses on creating software systems to manage and maintain large-scale infrastructure and services."
+    },
+    "Database Administrator (DBA)": {
+      "required_skills": ["SQL", "NoSQL (MongoDB/Cassandra)", "Performance Tuning", "Backup/Recovery", "Data Modeling"],
+      "recommended_certs": ["Oracle Database Administrator Certified Professional", "AWS Certified Database – Specialty"],
+      "summary": "Focuses on ensuring data availability, performance, and security across enterprise database systems."
+    },
+    "Technical Writer": {
+      "required_skills": ["Markdown", "API Documentation", "Git/Doc-as-Code", "Communication", "Technical Comprehension"],
+      "recommended_certs": ["Google Technical Writing Course", "Certified Professional Technical Communicator"],
+      "summary": "Focuses on simplifying complex technical concepts into clear, usable documentation for developers and users."
+    },
+    "QA Automation Engineer": {
+      "required_skills": ["Selenium/Playwright", "TestNG", "Java/Python", "Jenkins/Git", "API Testing"],
+      "recommended_certs": ["ISTQB Certified Tester", "Certified Associate in Software Testing"],
+      "summary": "Focuses on writing automated test scripts to ensure software quality and reliability before deployment."
+    },
+    "Mobile App Developer": {
+      "required_skills": ["Swift (iOS) or Kotlin (Android)", "React Native or Flutter", "API Integration", "UI/UX implementation"],
+      "recommended_certs": ["Associate Android Developer", "Meta Android/iOS Developer Professional Certificate"],
+      "summary": "Focuses on building, testing, and deploying applications for mobile devices."
+    },
+    "Embedded Systems Engineer": {
+      "required_skills": ["C", "C++", "Microcontrollers (Arduino/STM32)", "RTOS", "Circuit Design"],
+      "recommended_certs": ["CompTIA Linux+", "Embedded Systems Engineering Certificate"],
+      "summary": "Focuses on programming hardware and writing firmware for everything from kitchen appliances to robotics."
+    },
+    "Data Scientist": {
+      "required_skills": ["Python", "SQL", "Statistics", "Machine Learning", "Data Visualization"],
+      "recommended_certs": ["AWS Certified Machine Learning", "Google Professional Data Engineer"],
+      "summary": "Interprets big datasets to provide actionable insights and drive business decisions."
+    },
+    "AI Engineer": {
+      "required_skills": ["Python", "Machine Learning", "NLP", "Computer Vision", "Deep Learning"],
+      "recommended_certs": ["Google Professional Machine Learning Engineer", "AWS Certified Machine Learning Specialty"],
+      "summary": "Develops and implements AI models for complex tasks requiring human-like decision-making."
+    },
+    "IT Support Specialist": {
+      "required_skills": ["Computer Hardware", "Networking", "Operating Systems", "Troubleshooting", "Customer Service"],
+      "recommended_certs": ["CompTIA A+", "Google IT Support Professional"],
+      "summary": "Provides technical support and troubleshoots hardware and software issues."
+    },
+    "IT Manager": {
+      "required_skills": ["Leadership", "Communication", "Project Management", "Technical Knowledge"],
+      "recommended_certs": ["PMP", "CISSP", "ITIL"],
+      "summary": "Leads IT departments, manages teams, budgets, and projects."
+    },
+    "AI Strategy Consultant": {
+      "required_skills": ["Ethical AI", "Business Strategy", "Data Science", "Machine Learning"],
+      "recommended_certs": ["Certified Artificial Intelligence Expert", "Google Professional Machine Learning Engineer"],
+      "summary": "Helps organizations plan and implement AI technologies to improve operations."
+    },
+    "Frontend Developer": {
+      "required_skills": ["HTML", "CSS", "JavaScript", "React", "Responsive Design"],
+      "recommended_certs": ["Microsoft MTA Developer", "Google Mobile Web Specialist"],
+      "summary": "Develops user-facing elements of websites and applications."
+    },
+    "Data Engineer": {
+      "required_skills": ["Programming (Python, Java)", "SQL", "ETL", "Big Data (Hadoop, Spark)", "Cloud (AWS, Azure)"],
+      "recommended_certs": ["AWS Certified Data Engineer", "Google Professional Data Engineer"],
+      "summary": "Builds systems to collect, manage, and transform data."
+    },
+    "Systems Administrator": {
+      "required_skills": ["Networking", "Operating Systems", "Troubleshooting", "Security"],
+      "recommended_certs": ["CompTIA A+", "Microsoft Certified Azure Administrator"],
+      "summary": "Maintains computer systems, networks, and servers."
+    },
+    "Web Developer": {
+      "required_skills": ["HTML", "CSS", "JavaScript", "Backend Languages", "Frameworks"],
+      "recommended_certs": ["Google Mobile Web Specialist", "Microsoft MTA Developer"],
+      "summary": "Builds websites and web applications."
+    },
+    "Systems Analyst": {
+      "required_skills": ["Analytical Thinking", "Technical Knowledge", "Communication"],
+      "recommended_certs": ["CBAP", "CISSP"],
+      "summary": "Analyzes systems to improve efficiency."
+    },
+    "Business Analyst": {
+      "required_skills": ["Communication", "Analytical Thinking", "Project Management"],
+      "recommended_certs": ["CBAP", "CSM", "PMI-PBA"],
+      "summary": "Analyzes business needs and recommends solutions."
+    },
+    "IT Project Manager": {
+      "required_skills": ["Leadership", "Communication", "Risk Management"],
+      "recommended_certs": ["PMP", "CompTIA Project+"],
+      "summary": "Manages IT projects from initiation to completion."
+    },
+    "Cybersecurity Engineer": {
+      "required_skills": ["Networking", "Programming", "Cloud Security", "Ethical Hacking"],
+      "recommended_certs": ["CISSP", "CEH", "CCSP"],
+      "summary": "Designs and implements security systems."
+    },
+    "Data Annotator": {
+      "required_skills": ["Attention to Detail", "Basic Computer Skills", "Critical Thinking"],
+      "recommended_certs": [],
+      "summary": "Labels and reviews data to ensure accurate datasets for AI training."
+    },
+    "Data Governance Specialist": {
+      "required_skills": ["Data Management", "Compliance", "Analytical Thinking"],
+      "recommended_certs": ["CDMP", "DGSP"],
+      "summary": "Ensures data quality, compliance, and security."
+    },
+    "AI Ethics Specialist": {
+      "required_skills": ["Ethical Reasoning", "AI Knowledge", "Communication"],
+      "recommended_certs": ["Certified Ethical Emerging Technologist"],
+      "summary": "Addresses ethical implications of AI."
+    },
+    "AI Product Manager": {
+      "required_skills": ["Product Management", "AI Fundamentals", "Data Literacy"],
+      "recommended_certs": ["IBM AI Product Manager Professional Certificate"],
+      "summary": "Manages AI product development."
+    },
+    "Infrastructure Engineer": {
+      "required_skills": ["Networking", "Cloud Platforms", "Automation"],
+      "recommended_certs": ["AWS Certified Solutions Architect", "CCNA"],
+      "summary": "Designs and maintains IT infrastructure."
+    },
+    "Network Administrator": {
+      "required_skills": ["Networking", "Troubleshooting", "Security"],
+      "recommended_certs": ["CompTIA Network+", "CCNA"],
+      "summary": "Manages computer networks."
+    },
+    "Computer Systems Analyst": {
+      "required_skills": ["Analytical Thinking", "Technical Knowledge"],
+      "recommended_certs": ["CompTIA A+", "CISSP"],
+      "summary": "Analyzes and improves computer systems."
+    },
+    "Information Security Analyst": {
+      "required_skills": ["Intrusion Detection", "Risk Analysis", "Networking"],
+      "recommended_certs": ["CISSP", "CompTIA Security+"],
+      "summary": "Protects computer networks from threats."
+    },
+    "Enterprise Architect": {
+      "required_skills": ["Strategic Thinking", "Technical Knowledge", "Communication"],
+      "recommended_certs": ["TOGAF", "CEA Black Belt"],
+      "summary": "Designs enterprise-wide IT architecture."
+    },
+    "Software Architect": {
+      "required_skills": ["Programming", "System Design", "Leadership"],
+      "recommended_certs": ["iSAQB CPSA", "TOGAF"],
+      "summary": "Designs software systems."
+    },
+    "Data Warehouse Architect": {
+      "required_skills": ["Data Modeling", "ETL", "Database Management"],
+      "recommended_certs": ["IBM Certified Solution Architect – Data Warehouse"],
+      "summary": "Designs data warehouses."
+    },
+    "Cloud Security Architect": {
+      "required_skills": ["Cloud Platforms", "Security", "Risk Assessment"],
+      "recommended_certs": ["CCSP", "AWS Certified Security - Specialty"],
+      "summary": "Designs secure cloud architectures."
+    },
+    "Big Data Engineer": {
+      "required_skills": ["Hadoop", "Spark", "Kafka", "Scala"],
+      "recommended_certs": ["Cloudera CCP Data Engineer", "Google Professional Data Engineer"],
+      "summary": "Manages large-scale data processing systems."
+    },
+    "IoT Developer": {
+      "required_skills": ["Programming", "Hardware Knowledge", "Networking"],
+      "recommended_certs": ["Certified IoT Professional", "AWS IoT Specialty"],
+      "summary": "Develops IoT applications and systems."
+    },
+    "Robotics Engineer": {
+      "required_skills": ["Programming", "Mechanics", "Electronics"],
+      "recommended_certs": ["Certified Robotics Engineer", "RI/SME Robotics Certification"],
+      "summary": "Designs and builds robots."
+    },
+    "AR/VR Developer": {
+      "required_skills": ["3D Modeling", "Unity/Unreal", "Programming"],
+      "recommended_certs": ["Unity Certified Developer", "Unreal Engine Certification"],
+      "summary": "Creates augmented/virtual reality applications."
+    },
+    "Firmware Engineer": {
+      "required_skills": ["Embedded C", "Microcontrollers", "Debugging"],
+      "recommended_certs": ["Certified Embedded Systems Professional"],
+      "summary": "Develops firmware for embedded systems."
+    }
+  }
+}
